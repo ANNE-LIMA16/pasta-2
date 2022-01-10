@@ -1,0 +1,28 @@
+body{
+    margin: 0px;
+    background-color:rgb(255, 207, 118);
+}
+img{
+    height:255px ;
+    width:441px;
+    margin: -131px 71px -217px 873px;
+    text-align: left;
+}
+div{
+    background-color: orange;
+    margin:-3px;
+    height: 55px;
+    text-align: center;
+}
+h6{
+    
+    font-size: 30px;
+    text-align: center;
+    margin: 0px;
+    
+}
+p{
+    
+    font-size:20px;
+    margin: 11px 0px 72px 21px;
+}
